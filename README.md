@@ -15,7 +15,7 @@ binary, a Docker image, or on Cloudflare Workers.
 </div>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/wudi/bks/board.png" alt="A Plot project with its tasks on a board, grouped by status" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/wudi/bks/og-image.png" alt="Plot: the task list grouped by status, with a task open in the detail pane" width="100%">
 </p>
 
 ---

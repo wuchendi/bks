@@ -15,7 +15,7 @@ Cloudflare Workers。
 </div>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/wudi/bks/board.png" alt="Plot 的项目看板，任务按状态分组" width="100%">
+  <img src="https://cdn.jsdelivr.net/gh/cdLab996/picture-lib/wudi/bks/og-image.png" alt="Plot：按状态分组的任务列表，右侧打开了任务详情" width="100%">
 </p>
 
 ---
